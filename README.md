@@ -2,7 +2,7 @@
 
 结合个人经历总结的前端入门方法，总结从零基础到具备前端基本技能的道路、学习方法、资料。由于能力有限，不能保证面面俱到，只是作为入门参考，面向初学者，让初学者少走弯路。
 
-互联网的快速发展和激烈竞争，用户体验成为一个重要的关注点，导致专业前端工程师成为热门职业，各大公司对前端工程师的需求量都很大，要求也越来越高，优秀的前端工程师更是稀缺。个人感觉前端入门相对容易，在打好基础后坚持学习，成为优秀前端工程师也只是时间问题。
+互联网的快速发展和激烈竞争，用户体验成为一个重要的关注点，导致专业前端工程师成为热门职业，各大公司对前端工程师的需求量都很大，要求也越来越高，优秀的前端工程师更是稀缺。个人感觉前端入门相对容易，但是也需要系统地认真学习，在打好基础后坚持学习，成为优秀前端工程师也只是时间问题。
 
 学习任何知识最重要的都是**兴趣**，如果经过一段时间的学习感觉不喜欢，那可能强迫自己学习是很痛苦的，效果也不会好，毕竟这很可能就是以后很多年生存的技能。不过随着互联网行业的发展，前端必然是Web开发人员需要学习的知识，有时候是没有专业前端工程师一起合作的，所以即使不做专门的前端工程师，掌握基本的前端技能为工作带来方便。
 
@@ -95,7 +95,7 @@
 ## 书籍推荐
 
 以下是一些不错的书籍、网站、教程。
-
+- [CSS3 the missing manual](http://www.amazon.com/CSS3-Missing-David-Sawyer-McFarland/dp/1449325947/ref=sr_1_1?s=books&ie=UTF8&qid=1412863235&sr=1-1&keywords=css+the+missing+manual):很多例子。一步步实现效果。
 - [《Ajax完全手册》](http://www.amazon.cn/Ajax%E5%AE%8C%E5%85%A8%E6%89%8B%E5%86%8C-%E6%B3%A2%E7%BB%B4%E5%B0%94/dp/B001N6R0Q2/ref=sr_1_2?ie=UTF8&qid=1410104972&sr=8-2&keywords=ajax%E5%AE%8C%E5%85%A8%E6%89%8B%E5%86%8C)：一本Ajax很不错的书，例子多，实现了一个Ajax库
 - [《Pro AngularJS》](http://www.amazon.com/Pro-AngularJS-Experts-Voice-Development/dp/1430264489/ref=sr_1_1?s=books&ie=UTF8&qid=1410105152&sr=1-1&keywords=pro+angularjs)：AngularJS很好的书籍
 - [《Pro jQuery》](http://www.amazon.com/Pro-jQuery-Experts-Voice-Development/dp/1430263881/ref=sr_1_1?s=books&ie=UTF8&qid=1410099103&sr=1-1&keywords=pro+jquery)和[Learning jQuery](http://www.amazon.com/Learning-jQuery-Fourth-Jonathan-Chaffer/dp/178216314X/ref=sr_1_1?s=books&ie=UTF8&qid=1410099243&sr=1-1&keywords=learning+jquery)：两本jQuery书籍
@@ -109,8 +109,6 @@
 
 
 ## 一些个人经历
-
-### [qiu-deqing](https://github.com/qiu-deqing)的学习经历
 
 ### [asd123freedom](https://github.com/asd123freedom)的学习经历
 
