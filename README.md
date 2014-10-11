@@ -377,3 +377,27 @@ CSS和HTML：主要是CSS3的特性和HTML5的特性，以及浏览器处理的�
 ### [zyr2014](https://github.com/zyr2014)的学习经历
 
 ### [zhangtaibai](https://github.com/zhangtaibai)的学习经历
+
+### byr论坛yiyizym的建议
+
+与grunt相比，学习gulp会比较简单
+
+做SPA的话，推荐backbone.js和 backbone.marionette.js
+
+翻墙不用折腾，花十块钱买一个月的 红杏。 
+
+把基础打扎实了再学这些都没问题。
+
+html 没什么好说的，有空学学html5。  
+
+css 尽量看[文档](http://www.w3.org/TR/CSS21/cover.html#minitoc) ，因为很多中文资料都各执一辞，看多了反而会糊涂。
+
+有个[网站](http://caniuse.com/)可以查找html/css标签、属性在各个浏览器中的支持情况，挺好用的。  
+
+javascript 就看 javascript高级程序设计 。不过这么厚的书看过就会忘。对javascript核心概念的讲解：对象/原型链/         构造函数/执行上下文/作用域链/闭包/this，[这里](http://weizhifeng.net/javascript-the-core.html)有篇不错的文章。  
+
+有闲情可以看看 ecmascript 6，计划明年6月就发布啦。[阮一峰的网站](http://es6.ruanyifeng.com/)有入门资料。  
+
+jquery 有很多 API,[这个网站](http://www.css88.com/jqapi-1.9/)可以方便查到。有时间弄清楚jquery deferred 的用法。
+
+多给 sublimetext 装插件，比如说检查代码错误的，新建目录文件的，整理代码的。
