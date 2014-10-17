@@ -76,6 +76,15 @@
 10. 经常实用Google搜索英文资料应该经常找到来自[http://stackoverflow.com/](http://stackoverflow.com/)的高质量答案，与到问题可以直接在这里搜索，如果有精力，注册一个账号为别人解答问题也能极大提高个人能力。
 11. 经典书籍熟读之后，可以打开前面必备基础技能部分的链接。认真读对应标准，全面掌握知识
 
+## 检验成果
+
+亲自实现下面的例子，能兼容IE6+那就最好了
+
+- [http://blog.html.it/layoutgala/](http://blog.html.it/layoutgala/)。同一个html文件通过css完成40种不同布局，兼顾兼容性
+- [http://js.fgm.cc/learn/](http://js.fgm.cc/learn/):完成和这里一模一样的功能、布局。
+- 模拟实现常用5个网站的首页页面
+- [https://github.com/ecomfe/moye](https://github.com/ecomfe/moye)：实现这个组件库中的所有组件
+
 ## 继续提高
 
 有了前面的基础之后，前端基本算是入门了，这时候可能每个人心中都有了一些学习方向，如果还是没有。
