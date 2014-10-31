@@ -95,19 +95,21 @@
 
 - [《HTML & CSS: Design and Build Websites》英文版][]
 - [《HTML5: The Missing Manual》中文版][]
-- [《HTML5: The Missing Manual 2nd Edition》][]
-- [《CSS: The Missing Manual》][]
-- [《CSS权威指南》][]
-- [《Learning jQuery 4th Edition》][]
-- [《javascript 权威指南第六版》][]
+- [《HTML5: The Missing Manual 2nd Edition英文版》][]
+- [《CSS: The Missing Manual中文版》][]
+- [《CSS权威指南中文版》][]
+- [《Learning jQuery 4th Edition英文版》][]
+- [《javascript 权威指南第六版中文版》][]
 
-[《HTML & CSS: Design and Build Websites》]: http://url.cn/W1FnCZ
+
+[《HTML & CSS: Design and Build Websites》英文版]: http://url.cn/W1FnCZ
 [《HTML5: The Missing Manual》中文版]: http://url.cn/WkCHD2
-[《HTML5: The Missing Manual 2nd Edition》]: http://url.cn/KJnEha
+[《HTML5: The Missing Manual 2nd Edition英文版》]: http://url.cn/KJnEha
 [《CSS: The Missing Manual中文版》]: http://url.cn/Tfw1LP
 [《CSS权威指南中文版》]: http://url.cn/PrTxU1
-[《Learning jQuery 4th Edition》]: http://url.cn/OE0a0b
-[《javascript 权威指南第六版》]: http://url.cn/NcTyCw
+[《Learning jQuery 4th Edition英文版》]: http://url.cn/OE0a0b
+[《javascript 权威指南第六版中文版》]: http://url.cn/NcTyCw
+
 
 ## 检验成果
 
