@@ -55,30 +55,51 @@
 
 ## 入门之路
 
-以下是入门阶段不错的书籍和资料
+以下是入门阶段不错的书籍和资料，列表后面有一些电子版下载链接
 
-1. HTML方面推荐[《HTML & CSS: Design and Build Websites》][]作为入门，重点看这本书的HTML部分（1-9章），然后看[《HTML5: The Missing Manual》][]1-4章。这样对基本标签的使用有一个全面的了解。电子版：[《HTML & CSS: Design and Build Websites》英文版][]，[《HTML5: The Missing Manual》中文版][]，[《HTML5: The Missing Manual 2nd Edition》][]
-2. CSS方面[《CSS: The Definitive Guide（css权威指南）》](http://www.amazon.com/CSS-Definitive-Guide-Eric-Meyer/dp/0596527330/ref=sr_1_1?s=books&ie=UTF8&qid=1410097105&sr=1-1&keywords=css+definitive+guide)是需要反复学习的CSS书籍，对CSS2.1规范中重要的内容进行了详细介绍，可以考虑看中文版方便理解
-3. javascript先看几遍[《Professional JavaScript for Web Developers（javascript高级程序设计）》](http://www.amazon.com/Professional-JavaScript-Developers-Nicholas-Zakas/dp/1118026691/ref=sr_1_1?s=books&ie=UTF8&qid=undefined&sr=1-1&keywords=javascript+professional)然后[《JavaScript: The Definitive Guide（javascript权威指南）》](http://www.amazon.com/JavaScript-Definitive-Guide-Activate-Guides/dp/0596805527/ref=sr_1_3?s=books&ie=UTF8&qid=1410097105&sr=1-3&keywords=css+definitive+guide)
-4. HTTP自然就是看[HTTP权威指南](http://www.amazon.com/HTTP-Definitive-Guide-Guides/dp/1565925092/ref=sr_1_1?s=books&ie=UTF8&qid=1410097965&sr=1-1&keywords=http+the+definitive+guide)
+1. HTML先看[《HTML & CSS: Design and Build Websites》][]1-9章，然后[《HTML5: The Missing Manual》][]1-4章。
+2. CSS先看[《CSS: The Missing Manual》][]，然后[《CSS权威指南》][]
+3. javascript先看[《javascript高级程序设计》][]，然后[《javascript权威指南》][]
+4. HTTP看[HTTP权威指南][]
 5. 在整个学习过程中HTML CSS JavaScript会有很多地方需要互相结合，实际工作中也是这样，一个简单的功能模块都需要三者结合才能实现。
 6. 动手是学习的重要组成部分，书籍重点讲解知识点，例子可能不是很充足，这就需要利用搜索引擎寻找一些简单教程，照着教程实现功能。以下是一些比较好的教程网址
-    - CSS各种布局[http://blog.html.it/layoutgala/](http://blog.html.it/layoutgala/)
-    - 可以搜索各大公司前端校招笔试面试题作为练习题或者他人总结的[前端面试题](https://github.com/darcyclarke/Front-end-Developer-Interview-Questions/tree/master/Translations/Chinese)还有[个人总结的面试题](https://github.com/qiu-deqing/FE-interview)（带参考答案）
-    - [http://code.tutsplus.com](http://code.tutsplus.com/categories/javascript)有各种各样的教程
-    - [MDN](https://developer.mozilla.org/en-US/docs/Web)也有很多教程，更重要的是里面有详细的文档，需要查找某个功能时在Google搜索：xxx site:https://developer.mozilla.org
-    - [www.html5rocks.com](http://www.html5rocks.com/zh/tutorials/?page=1)也有很多优质教程
-    - [www.sitepoint.com](http://www.sitepoint.com/javascript/)
-    - [http://alistapart.com/](http://alistapart.com/)
-7. 原生javascript是学习前端需要重点掌握的技能，在掌握原生javascript的基础上推荐熟练掌握jQuery，在实际工作中用处很大，这方面的书籍有[《Learning jQuery》](http://www.amazon.com/Learning-jQuery-Fourth-Jonathan-Chaffer/dp/178216314X/ref=sr_1_1?s=books&ie=UTF8&qid=1410099243&sr=1-1&keywords=learning+jquery)或者去[jQuery官网](http://api.jquery.com/)
-8. 建一个[https://github.com/](https://github.com/)账号，保存平时学习中的各种代码和项目。
-9. 有了一定基础之后可以搭建一个个人博客，记录学习过程中遇到的问题和解决方法，方便自己查阅也为其他人提供了帮助。也可以去[http://www.cnblogs.com/](http://www.cnblogs.com/)或者[http://www.csdn.net/](http://www.csdn.net/)这样的网站注册账号，方便实用
-10. 经常实用Google搜索英文资料应该经常找到来自[http://stackoverflow.com/](http://stackoverflow.com/)的高质量答案，与到问题可以直接在这里搜索，如果有精力，注册一个账号为别人解答问题也能极大提高个人能力。
+    - CSS各种布局<http://blog.html.it/layoutgala/>
+    - 可以搜索各大公司前端校招笔试面试题作为练习题或者他人总结的[前端面试题][]还有[个人总结的面试题][]（带参考答案）
+    - <http://code.tutsplus.com>有各种各样的教程
+    - [MDN](https://developer.mozilla.org/en-US/docs/Web)也有很多教程，更重要的是里面有详细的文档，需要查找某个功能时在Google搜索：`xxx site:https://developer.mozilla.org`
+    - <www.html5rocks.com]>也有很多优质教程
+    - <www.sitepoint.com]>
+    - <http://alistapart.com/>
+7. 原生javascript是需要重点掌握的技能，在掌握原生javascript的基础上推荐熟练掌握jQuery，在实际工作中用处很大，这方面的书籍有[《Learning jQuery》][]或者去[jQuery官网](http://learn.jquery.com/)
+8. 建一个<https://github.com/>账号，保存平时学习中的各种代码和项目。
+9. 有了一定基础之后可以搭建一个个人博客，记录学习过程中遇到的问题和解决方法，方便自己查阅也为其他人提供了帮助。也可以去<http://www.cnblogs.com/>或者<http://www.csdn.net/>这样的网站注册账号，方便实用
+10. 经常实用Google搜索英文资料应该经常找到来自<http://stackoverflow.com/>的高质量答案，与到问题可以直接在这里搜索，如果有精力，注册一个账号为别人解答问题也能极大提高个人能力。
 11. 经典书籍熟读之后，可以打开前面必备基础技能部分的链接。认真读对应标准，全面掌握知识
+
 
 [《HTML & CSS: Design and Build Websites》]: http://www.amazon.cn/gp/product/B00BMK4GKW/ref=s9_simh_gw_p14_d0_i2?pf_rd_m=A1AJ19PSB66TGU&pf_rd_s=center-2&pf_rd_r=1AH2NF64STS19GY8GR54&pf_rd_t=101&pf_rd_p=108773272&pf_rd_i=899254051
 [《HTML5: The Missing Manual》]: http://www.amazon.cn/HTML5%E7%A7%98%E7%B1%8D-Matthew-MacDonald/dp/B009DFCZAQ/ref=sr_1_1?ie=UTF8&qid=1414740812&sr=8-1&keywords=html5+the+missing+manual
+[《CSS: The Missing Manual》]: http://www.amazon.cn/CSS-The-Missing-Manual-Mcfarland-David-Sawyer/dp/0596802447/ref=sr_1_1?ie=UTF8&qid=1414742710&sr=8-1&keywords=css+the+missing+manual+2
+[《CSS权威指南》]: http://www.amazon.cn/CSS%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97-%E8%BF%88%E8%80%B6/dp/B0011F5SIC/ref=sr_1_1?ie=UTF8&qid=1414744248&sr=8-1&keywords=css+%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97
+[《javascript高级程序设计》]: http://www.amazon.cn/JavaScript%E9%AB%98%E7%BA%A7%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1-%E6%B3%BD%E5%8D%A1%E6%96%AF/dp/B007OQQVMY/ref=sr_1_1?s=books&ie=UTF8&qid=1414744358&sr=1-1&keywords=javascript+%E9%AB%98%E7%BA%A7%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1
+[《javascript权威指南》]: http://www.amazon.cn/O-Reilly%E7%B2%BE%E5%93%81%E5%9B%BE%E4%B9%A6%E7%B3%BB%E5%88%97-JavaScript%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97-%E5%BC%97%E5%85%B0%E7%BA%B3%E6%A0%B9/dp/B007VISQ1Y/ref=sr_1_1?s=books&ie=UTF8&qid=1414744401&sr=1-1&keywords=javascript+%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97
+[HTTP权威指南]: http://www.amazon.cn/HTTP%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97-%E5%90%89%E5%B0%94%E5%88%A9/dp/B008XFDQ14/ref=sr_1_1?s=books&ie=UTF8&qid=1414744440&sr=1-1&keywords=HTTP+%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97
+[前端面试题]: https://github.com/darcyclarke/Front-end-Developer-Interview-Questions/tree/master/Translations/Chinese
+[个人总结的面试题]: https://github.com/qiu-deqing/FE-interview
+[《Learning jQuery》]: http://www.amazon.com/Learning-jQuery-Fourth-Jonathan-Chaffer/dp/178216314X/ref=sr_1_1?s=books&ie=UTF8&qid=1410099243&sr=1-1&keywords=learning+jquery
+
+## 部分书籍电子版
+
+找了上面推荐的书籍的电子版，方便下载，有的没找到中文版。
+
+- [《HTML & CSS: Design and Build Websites》英文版][]
+- [《HTML5: The Missing Manual》中文版][]
+- [《HTML5: The Missing Manual 2nd Edition》][]
+
+
 [《HTML & CSS: Design and Build Websites》英文版]: http://url.cn/W1FnCZ
+[《HTML5: The Missing Manual》中文版]: http://url.cn/WkCHD2
+[《HTML5: The Missing Manual 2nd Edition》]: http://url.cn/KJnEha
 
 ## 检验成果
 
