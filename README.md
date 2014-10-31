@@ -57,7 +57,7 @@
 
 以下是入门阶段不错的书籍和资料
 
-1. HTML方面[《HTML5 the missing manual》](http://www.amazon.com/HTML5-Missing-Manual-Manuals/dp/1449302394/ref=sr_1_3?s=books&ie=UTF8&qid=1410096659&sr=1-3&keywords=html5+the+missing+manual)，个人感觉非常不错，现在已经出了第二版，推荐这本书作为HTML入门
+1. HTML方面推荐[《HTML & CSS: Design and Build Websites》][]作为入门，重点看这本书的HTML部分（1-9章），然后看[《HTML5: The Missing Manual》][]1-4章。这样对基本标签的使用有一个全面的了解。电子版：[《HTML & CSS: Design and Build Websites》英文版][]，[《HTML5: The Missing Manual》中文版][]，[《HTML5: The Missing Manual 2nd Edition》][]
 2. CSS方面[《CSS: The Definitive Guide（css权威指南）》](http://www.amazon.com/CSS-Definitive-Guide-Eric-Meyer/dp/0596527330/ref=sr_1_1?s=books&ie=UTF8&qid=1410097105&sr=1-1&keywords=css+definitive+guide)是需要反复学习的CSS书籍，对CSS2.1规范中重要的内容进行了详细介绍，可以考虑看中文版方便理解
 3. javascript先看几遍[《Professional JavaScript for Web Developers（javascript高级程序设计）》](http://www.amazon.com/Professional-JavaScript-Developers-Nicholas-Zakas/dp/1118026691/ref=sr_1_1?s=books&ie=UTF8&qid=undefined&sr=1-1&keywords=javascript+professional)然后[《JavaScript: The Definitive Guide（javascript权威指南）》](http://www.amazon.com/JavaScript-Definitive-Guide-Activate-Guides/dp/0596805527/ref=sr_1_3?s=books&ie=UTF8&qid=1410097105&sr=1-3&keywords=css+definitive+guide)
 4. HTTP自然就是看[HTTP权威指南](http://www.amazon.com/HTTP-Definitive-Guide-Guides/dp/1565925092/ref=sr_1_1?s=books&ie=UTF8&qid=1410097965&sr=1-1&keywords=http+the+definitive+guide)
@@ -75,6 +75,10 @@
 9. 有了一定基础之后可以搭建一个个人博客，记录学习过程中遇到的问题和解决方法，方便自己查阅也为其他人提供了帮助。也可以去[http://www.cnblogs.com/](http://www.cnblogs.com/)或者[http://www.csdn.net/](http://www.csdn.net/)这样的网站注册账号，方便实用
 10. 经常实用Google搜索英文资料应该经常找到来自[http://stackoverflow.com/](http://stackoverflow.com/)的高质量答案，与到问题可以直接在这里搜索，如果有精力，注册一个账号为别人解答问题也能极大提高个人能力。
 11. 经典书籍熟读之后，可以打开前面必备基础技能部分的链接。认真读对应标准，全面掌握知识
+
+[《HTML & CSS: Design and Build Websites》]: http://www.amazon.cn/gp/product/B00BMK4GKW/ref=s9_simh_gw_p14_d0_i2?pf_rd_m=A1AJ19PSB66TGU&pf_rd_s=center-2&pf_rd_r=1AH2NF64STS19GY8GR54&pf_rd_t=101&pf_rd_p=108773272&pf_rd_i=899254051
+[《HTML5: The Missing Manual》]: http://www.amazon.cn/HTML5%E7%A7%98%E7%B1%8D-Matthew-MacDonald/dp/B009DFCZAQ/ref=sr_1_1?ie=UTF8&qid=1414740812&sr=8-1&keywords=html5+the+missing+manual
+[《HTML & CSS: Design and Build Websites》英文版]: http://url.cn/W1FnCZ
 
 ## 检验成果
 
