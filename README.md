@@ -100,6 +100,8 @@
 - [《CSS权威指南中文版》][]
 - [《Learning jQuery 4th Edition英文版》][]
 - [《javascript 权威指南第六版中文版》][]
+- [《HTTP权威指南中文版》][]
+- [《javascript高级程序设计中文版》][]
 
 
 [《HTML & CSS: Design and Build Websites》英文版]: http://url.cn/W1FnCZ
@@ -109,7 +111,8 @@
 [《CSS权威指南中文版》]: http://url.cn/PrTxU1
 [《Learning jQuery 4th Edition英文版》]: http://url.cn/OE0a0b
 [《javascript 权威指南第六版中文版》]: http://url.cn/NcTyCw
-
+[《HTTP权威指南中文版》]: http://url.cn/LwzShB
+[《javascript高级程序设计中文版》]: http://url.cn/N0M3MC
 
 ## 检验成果
 
