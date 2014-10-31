@@ -67,8 +67,8 @@
     - 可以搜索各大公司前端校招笔试面试题作为练习题或者他人总结的[前端面试题][]还有[个人总结的面试题][]（带参考答案）
     - <http://code.tutsplus.com>有各种各样的教程
     - [MDN](https://developer.mozilla.org/en-US/docs/Web)也有很多教程，更重要的是里面有详细的文档，需要查找某个功能时在Google搜索：`xxx site:https://developer.mozilla.org`
-    - <www.html5rocks.com>也有很多优质教程
-    - <www.sitepoint.com>
+    - <http://www.html5rocks.com/zh/>也有很多优质教程
+    - <http://www.sitepoint.com/>
     - <http://alistapart.com/>
 7. 原生javascript是需要重点掌握的技能，在掌握原生javascript的基础上推荐熟练掌握jQuery，在实际工作中用处很大，这方面的书籍有[《Learning jQuery》][]或者去[jQuery官网](http://learn.jquery.com/)
 8. 建一个<https://github.com/>账号，保存平时学习中的各种代码和项目。
@@ -88,6 +88,7 @@
 [个人总结的面试题]: https://github.com/qiu-deqing/FE-interview
 [《Learning jQuery》]: http://www.amazon.com/Learning-jQuery-Fourth-Jonathan-Chaffer/dp/178216314X/ref=sr_1_1?s=books&ie=UTF8&qid=1410099243&sr=1-1&keywords=learning+jquery
 
+
 ## 部分书籍电子版
 
 找了上面推荐的书籍的电子版，方便下载，有的没找到中文版。
@@ -95,20 +96,27 @@
 - [《HTML & CSS: Design and Build Websites》英文版][]
 - [《HTML5: The Missing Manual》中文版][]
 - [《HTML5: The Missing Manual 2nd Edition》][]
+- [《CSS: The Missing Manual》][]
+- [《CSS权威指南》][]
+- [《Learning jQuery 4th Edition》][]
+- [《javascript 权威指南第六版》][]
 
-
-[《HTML & CSS: Design and Build Websites》英文版]: http://url.cn/W1FnCZ
+[《HTML & CSS: Design and Build Websites》]: http://url.cn/W1FnCZ
 [《HTML5: The Missing Manual》中文版]: http://url.cn/WkCHD2
 [《HTML5: The Missing Manual 2nd Edition》]: http://url.cn/KJnEha
+[《CSS: The Missing Manual中文版》]: http://url.cn/Tfw1LP
+[《CSS权威指南中文版》]: http://url.cn/PrTxU1
+[《Learning jQuery 4th Edition》]: http://url.cn/OE0a0b
+[《javascript 权威指南第六版》]: http://url.cn/NcTyCw
 
 ## 检验成果
 
 亲自实现下面的例子，能兼容IE6+那就最好了
 
-- [http://blog.html.it/layoutgala/](http://blog.html.it/layoutgala/)。同一个html文件通过css完成40种不同布局，兼顾兼容性
-- [http://js.fgm.cc/learn/](http://js.fgm.cc/learn/):完成和这里一模一样的功能、布局。
+- <http://blog.html.it/layoutgala/>:同一个html文件通过css完成40种不同布局，兼顾兼容性
+- <http://js.fgm.cc/learn/>:完成和这里一模一样的功能、布局。
 - 模拟实现常用5个网站的首页页面
-- [https://github.com/ecomfe/moye](https://github.com/ecomfe/moye)：实现这个组件库中的所有组件
+- <https://github.com/ecomfe/moye>：实现这个组件库中的所有组件
 
 ## 继续提高
 
@@ -131,10 +139,9 @@
 ## 书籍推荐
 
 以下是一些不错的书籍、网站、教程。
-- [CSS3 the missing manual](http://www.amazon.com/CSS3-Missing-David-Sawyer-McFarland/dp/1449325947/ref=sr_1_1?s=books&ie=UTF8&qid=1412863235&sr=1-1&keywords=css+the+missing+manual):很多例子。一步步实现效果。
+
 - [《Ajax完全手册》](http://www.amazon.cn/Ajax%E5%AE%8C%E5%85%A8%E6%89%8B%E5%86%8C-%E6%B3%A2%E7%BB%B4%E5%B0%94/dp/B001N6R0Q2/ref=sr_1_2?ie=UTF8&qid=1410104972&sr=8-2&keywords=ajax%E5%AE%8C%E5%85%A8%E6%89%8B%E5%86%8C)：一本Ajax很不错的书，例子多，实现了一个Ajax库
 - [《Pro AngularJS》](http://www.amazon.com/Pro-AngularJS-Experts-Voice-Development/dp/1430264489/ref=sr_1_1?s=books&ie=UTF8&qid=1410105152&sr=1-1&keywords=pro+angularjs)：AngularJS很好的书籍
-- [Learning jQuery](http://www.amazon.com/Learning-jQuery-Fourth-Jonathan-Chaffer/dp/178216314X/ref=sr_1_1?s=books&ie=UTF8&qid=1410099243&sr=1-1&keywords=learning+jquery)：jQuery书籍
 - [《精通CSS：高级web标准解决方法》](http://www.amazon.com/CSS-Mastery-Advanced-Standards-Solutions/dp/1430223979/ref=sr_1_1?ie=UTF8&qid=1410137090&sr=8-1&keywords=css+mastery+advanced+web+standards+solutions)：CSS实用技能
 - [JavaScript Memory Profiling](https://developer.chrome.com/devtools/docs/javascript-memory-profiling?hl=figoogle)
 - [《HTML5 canvas》](http://www.amazon.com/HTML5-Canvas-Steve-Fulton/dp/1449334989/ref=sr_1_1?ie=UTF8&qid=undefined&sr=8-1&keywords=html5+canvas)：canvas是HTML5带来的一个很棒的特性，可以做很多事情
