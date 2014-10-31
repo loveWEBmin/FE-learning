@@ -67,8 +67,8 @@
     - 可以搜索各大公司前端校招笔试面试题作为练习题或者他人总结的[前端面试题][]还有[个人总结的面试题][]（带参考答案）
     - <http://code.tutsplus.com>有各种各样的教程
     - [MDN](https://developer.mozilla.org/en-US/docs/Web)也有很多教程，更重要的是里面有详细的文档，需要查找某个功能时在Google搜索：`xxx site:https://developer.mozilla.org`
-    - <www.html5rocks.com]>也有很多优质教程
-    - <www.sitepoint.com]>
+    - <www.html5rocks.com>也有很多优质教程
+    - <www.sitepoint.com>
     - <http://alistapart.com/>
 7. 原生javascript是需要重点掌握的技能，在掌握原生javascript的基础上推荐熟练掌握jQuery，在实际工作中用处很大，这方面的书籍有[《Learning jQuery》][]或者去[jQuery官网](http://learn.jquery.com/)
 8. 建一个<https://github.com/>账号，保存平时学习中的各种代码和项目。
