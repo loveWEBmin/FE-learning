@@ -1,3 +1,48 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
+
+- [FE-learning](#fe-learning)
+  - [必备基础技能](#必备基础技能)
+  - [基本开发工具](#基本开发工具)
+  - [学习方法和学习目标](#学习方法和学习目标)
+  - [入门之路](#入门之路)
+  - [部分书籍电子版](#部分书籍电子版)
+  - [检验成果](#检验成果)
+  - [继续提高](#继续提高)
+  - [书籍推荐](#书籍推荐)
+  - [一些个人经历](#一些个人经历)
+    - [[asd123freedom](https://github.com/asd123freedom)的学习经历](#asd123freedomhttpsgithubcomasd123freedom的学习经历)
+    - [[sue891206](https://github.com/sue891206)的学习经历](#sue891206httpsgithubcomsue891206的学习经历)
+    - [[Sheetaa](https://github.com/Sheetaa)的学习经历](#sheetaahttpsgithubcomsheetaa的学习经历)
+    - [[suikaxin](https://github.com/suikaxin)的学习经历](#suikaxinhttpsgithubcomsuikaxin的学习经历)
+    - [[quanxi613](https://github.com/quanxi613)的学习经历](#quanxi613httpsgithubcomquanxi613的学习经历)
+    - [[LingyuCoder](https://github.com/LingyuCoder)的学习经历](#lingyucoderhttpsgithubcomlingyucoder的学习经历)
+      - [工具](#工具)
+      - [技能](#技能)
+        - [语言基础](#语言基础)
+        - [进阶](#进阶)
+        - [项目](#项目)
+        - [未来](#未来)
+        - [其他](#其他)
+      - [入门书](#入门书)
+      - [一些不错的网站](#一些不错的网站)
+      - [历程](#历程)
+    - [[zwl4488](https://github.com/zwl4488)的学习经历](#zwl4488httpsgithubcomzwl4488的学习经历)
+    - [[MrRaindrop](https://github.com/MrRaindrop)的学习经历](#mrraindrophttpsgithubcommrraindrop的学习经历)
+      - [缘起](#缘起)
+      - [项目，下一个项目](#项目，下一个项目)
+      - [收集癖和知识管理](#收集癖和知识管理)
+      - [跟对神](#跟对神)
+      - [读书](#读书)
+      - [前端的定位](#前端的定位)
+      - [最后](#最后)
+    - [[zyr2014](https://github.com/zyr2014)的学习经历](#zyr2014httpsgithubcomzyr2014的学习经历)
+    - [[zhangtaibai](https://github.com/zhangtaibai)的学习经历](#zhangtaibaihttpsgithubcomzhangtaibai的学习经历)
+    - [byr论坛yiyizym的建议](#byr论坛yiyizym的建议)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # FE-learning
 
 ![FE](./img/FE.jpg)
@@ -95,24 +140,24 @@
 
 - [《HTML & CSS: Design and Build Websites》英文版][]
 - [《HTML5: The Missing Manual》中文版][]
-- [《HTML5: The Missing Manual 2nd Edition英文版》][]
-- [《CSS: The Missing Manual中文版》][]
-- [《CSS权威指南中文版》][]
-- [《Learning jQuery 4th Edition英文版》][]
-- [《javascript 权威指南第六版中文版》][]
-- [《HTTP权威指南中文版》][]
-- [《javascript高级程序设计中文版》][]
+- [《HTML5: The Missing Manual 2nd Edition》英文版][]
+- [《CSS: The Missing Manual》中文版][]
+- [《CSS权威指南》中文版][]
+- [《Learning jQuery 4th Edition》英文版][]
+- [《javascript 权威指南第六版》中文版][]
+- [《HTTP权威指南》中文版][]
+- [《javascript高级程序设计》中文版][]
 
 
 [《HTML & CSS: Design and Build Websites》英文版]: http://url.cn/W1FnCZ
 [《HTML5: The Missing Manual》中文版]: http://url.cn/WkCHD2
-[《HTML5: The Missing Manual 2nd Edition英文版》]: http://url.cn/KJnEha
-[《CSS: The Missing Manual中文版》]: http://url.cn/Tfw1LP
-[《CSS权威指南中文版》]: http://url.cn/PrTxU1
-[《Learning jQuery 4th Edition英文版》]: http://url.cn/OE0a0b
-[《javascript 权威指南第六版中文版》]: http://url.cn/NcTyCw
-[《HTTP权威指南中文版》]: http://url.cn/LwzShB
-[《javascript高级程序设计中文版》]: http://url.cn/N0M3MC
+[《HTML5: The Missing Manual 2nd Edition》英文版]: http://url.cn/KJnEha
+[《CSS: The Missing Manual》中文版]: http://url.cn/Tfw1LP
+[《CSS权威指南》中文版]: http://url.cn/PrTxU1
+[《Learning jQuery 4th Edition》英文版]: http://url.cn/OE0a0b
+[《javascript 权威指南第六版》中文版]: http://url.cn/NcTyCw
+[《HTTP权威指南》中文版]: http://url.cn/UE1976
+[《javascript高级程序设计》中文版]: http://url.cn/N0M3MC
 
 ## 检验成果
 
