@@ -199,6 +199,7 @@
 - [《Node.js in Action》](http://www.amazon.com/Node-js-Action-Mike-Cantelon/dp/1617290572/ref=sr_1_1?ie=UTF8&qid=1410138522&sr=8-1&keywords=node+js+in+action)：很不错的Node入门书籍
 - [《Single Page Web Applications: JavaScript end-to-end》](http://www.amazon.com/Single-Page-Applications-end---end/dp/1617290750/ref=sr_1_1?s=books&ie=UTF8&qid=1410138650&sr=1-1&keywords=single+page+application)：一步步完成简单SPA
 - [天镶大神的博客](http://lingyu.wang/#/home)
+- [《Web Development width Node & Express》](http://www.amazon.com/Web-Development-Node-Express-Leveraging/dp/1491949309/ref=sr_1_sc_1?ie=UTF8&qid=1415106115&sr=8-1-spell&keywords=web+development+width+node+and+express)：使用Node+Express完成一个项目，各种best practice，就像有人带，需要有一定基础
 
 
 ## 一些个人经历
