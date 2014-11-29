@@ -134,30 +134,6 @@
 [《Learning jQuery》]: http://www.amazon.com/Learning-jQuery-Fourth-Jonathan-Chaffer/dp/178216314X/ref=sr_1_1?s=books&ie=UTF8&qid=1410099243&sr=1-1&keywords=learning+jquery
 
 
-## 部分书籍电子版
-
-找了上面推荐的书籍的电子版，方便下载，有的没找到中文版。
-
-- [《HTML & CSS: Design and Build Websites》英文版][]
-- [《HTML5: The Missing Manual》中文版][]
-- [《HTML5: The Missing Manual 2nd Edition》英文版][]
-- [《CSS: The Missing Manual》中文版][]
-- [《CSS权威指南》中文版][]
-- [《Learning jQuery 4th Edition》英文版][]
-- [《javascript 权威指南第六版》中文版][]
-- [《HTTP权威指南》中文版][]
-- [《javascript高级程序设计》中文版][]
-
-
-[《HTML & CSS: Design and Build Websites》英文版]: http://url.cn/W1FnCZ
-[《HTML5: The Missing Manual》中文版]: http://url.cn/WkCHD2
-[《HTML5: The Missing Manual 2nd Edition》英文版]: http://url.cn/KJnEha
-[《CSS: The Missing Manual》中文版]: http://url.cn/Tfw1LP
-[《CSS权威指南》中文版]: http://url.cn/PrTxU1
-[《Learning jQuery 4th Edition》英文版]: http://url.cn/OE0a0b
-[《javascript 权威指南第六版》中文版]: http://url.cn/NcTyCw
-[《HTTP权威指南》中文版]: http://url.cn/UE1976
-[《javascript高级程序设计》中文版]: http://url.cn/N0M3MC
 
 ## 检验成果
 
