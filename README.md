@@ -80,7 +80,7 @@
 - **文本编辑器**：推荐[Sublime Text](http://www.sublimetext.com/)，支持各种插件、主题、设置，使用方便
 - **浏览器**：推荐[Google Chrome](http://www.google.cn/chrome/?hl=zh-CN&standalone=1)，更新快，对前端各种标准提供了非常好的支持
 - **调试工具**：推荐Chrome自带的[Chrome develop tools](https://developer.chrome.com/devtools)，可以轻松查看DOM结构、样式，通过控制台输出调试信息，调试javascript，查看网络等
-- **辅助工具**：PhotoShop编辑图片、取色，fireworks量尺寸，AlloDesigner对比尺寸，以及前面的到的Chrome develop tools，这里是一个[简单教程](http://qiu-deqing.github.io/toolpage/front-end-develop-tools.html)
+- **辅助工具**：PhotoShop编辑图片、取色，fireworks量尺寸，AlloyDesigner对比尺寸，以及前面的到的Chrome develop tools，这里是一个[简单教程](http://qiu-deqing.github.io/toolpage/front-end-develop-tools.html)
 - **翻墙工具**：使用goagent + chrome很方便。遇到问题时找不到合适的中文资料，可以考虑Google搜索对应的英文资料。
 
 ## 学习方法和学习目标
@@ -178,6 +178,7 @@
 - [《Web Development width Node & Express》](http://www.amazon.com/Web-Development-Node-Express-Leveraging/dp/1491949309/ref=sr_1_sc_1?ie=UTF8&qid=1415106115&sr=8-1-spell&keywords=web+development+width+node+and+express)：使用Node+Express完成一个项目，各种best practice，就像有人带，需要有一定基础，偏向于后端
 - [maintainable javascript](http://www.amazon.com/Maintainable-JavaScript-Nicholas-C-Zakas/dp/1449327680/ref=sr_1_1?ie=UTF8&qid=1416826732&sr=8-1&keywords=maintainable+javascript)
 - [learning javascript design patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+- [Node School](http://nodeschool.io/)：很好的命令行下的、富有交互性的教程，不仅仅是 Node 方面。
 
 
 ## 一些个人经历
@@ -223,6 +224,7 @@
 * Mark Men：测量、取色、标注利器，拿到视觉稿之后第一个打开的软件
 * GFW Fucker：我用红杏，可以的话买个虚拟服务器当梯子
 * iHosts：非常优秀的hosts管理软件，轻松修改hosts，开发调试必备
+* Charles：Mac 平台最好用的抓包分析工具
 * Rythem：AlloyTeam出品的代理抓包软件，非常轻量，安装简单，移动端（真机）开发调试很好用
 * Wunderlist：一个非常不错的Todo List，任务、需求多的时候管理起来很方便
 
