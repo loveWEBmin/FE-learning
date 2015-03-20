@@ -61,6 +61,8 @@
 了前端工程师牵涉到的各方面知识。在具备基本技能之后可以在里面找到学习
 的方向，完善技能和知识面。
 
+[frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)是老外总结的前端开发资源。覆盖面非常广。包括各种知识点、工具、技术，非常全面。
+
 以下是个人觉得入门阶段应该熟练掌握的基础技能：
 
 - [HTML4](http://www.w3.org/TR/html401/cover.html#minitoc)，[HTML5](http://www.w3.org/TR/html5/#contents)语法、标签、语义
@@ -147,7 +149,7 @@
 ## 继续提高
 
 有了前面的基础之后，前端基本算是入门了，这时候可能每个人心中都有了一些学习方向，如果还是没有。
-可以参考前面必备技能部分提到的那个项目，从里面选一些进行发展学习。以下是一些不错的方面：
+可以参考前面必备技能部分提到的那两个项目，从里面选一些进行发展学习。以下是一些不错的方面：
 
 - [Grunt](http://gruntjs.com/)：前端自动化工具，提高工作效率
 - [less css](http://lesscss.org/)：优秀的CSS预处理器
@@ -165,6 +167,8 @@
 ## 书籍推荐
 
 以下是一些不错的书籍、网站、教程。
+
+
 
 - [《Ajax完全手册》](http://www.amazon.cn/Ajax%E5%AE%8C%E5%85%A8%E6%89%8B%E5%86%8C-%E6%B3%A2%E7%BB%B4%E5%B0%94/dp/B001N6R0Q2/ref=sr_1_2?ie=UTF8&qid=1410104972&sr=8-2&keywords=ajax%E5%AE%8C%E5%85%A8%E6%89%8B%E5%86%8C)：一本Ajax很不错的书，例子多，实现了一个Ajax库
 - [《Pro AngularJS》](http://www.amazon.com/Pro-AngularJS-Experts-Voice-Development/dp/1430264489/ref=sr_1_1?s=books&ie=UTF8&qid=1410105152&sr=1-1&keywords=pro+angularjs)：AngularJS很好的书籍
@@ -317,7 +321,7 @@ CSS和HTML：主要是CSS3的特性和HTML5的特性，以及浏览器处理的�
     - git pages
     - hexo
     - jekyll
-    
+
 #####未来
 * Web Componets：面向未来的组件化开发方式
     - HTML模板
@@ -332,7 +336,7 @@ CSS和HTML：主要是CSS3的特性和HTML5的特性，以及浏览器处理的�
 * 交流和沟通能力：这个非常重要，前端同时需要与项目经理、产品、交互、后台打交道，沟通不善会导致很多无用功，延缓项目
 * 知识管理、时间管理：input和output的平衡，output是最好的input。如何做好分享，参与社区，做好交流，作好记录
 * 对新技术的渴望，以及敢于尝试
-    
+
 ####入门书
 入门可以通过啃书，但书本上的东西很多都已经过时了，在啃书的同时，也要持续关注技术的新动态。这里推几本我觉着不错的书：
 
@@ -456,19 +460,19 @@ CSS和HTML：主要是CSS3的特性和HTML5的特性，以及浏览器处理的�
 
 做SPA的话，推荐backbone.js和 backbone.marionette.js
 
-翻墙不用折腾，花十块钱买一个月的 红杏。 
+翻墙不用折腾，花十块钱买一个月的 红杏。
 
 把基础打扎实了再学这些都没问题。
 
-html 没什么好说的，有空学学html5。  
+html 没什么好说的，有空学学html5。
 
 css 尽量看[文档](http://www.w3.org/TR/CSS21/cover.html#minitoc) ，因为很多中文资料都各执一辞，看多了反而会糊涂。
 
-有个[网站](http://caniuse.com/)可以查找html/css标签、属性在各个浏览器中的支持情况，挺好用的。  
+有个[网站](http://caniuse.com/)可以查找html/css标签、属性在各个浏览器中的支持情况，挺好用的。
 
-javascript 就看 javascript高级程序设计 。不过这么厚的书看过就会忘。对javascript核心概念的讲解：对象/原型链/         构造函数/执行上下文/作用域链/闭包/this，[这里](http://weizhifeng.net/javascript-the-core.html)有篇不错的文章。  
+javascript 就看 javascript高级程序设计 。不过这么厚的书看过就会忘。对javascript核心概念的讲解：对象/原型链/         构造函数/执行上下文/作用域链/闭包/this，[这里](http://weizhifeng.net/javascript-the-core.html)有篇不错的文章。
 
-有闲情可以看看 ecmascript 6，计划明年6月就发布啦。[阮一峰的网站](http://es6.ruanyifeng.com/)有入门资料。  
+有闲情可以看看 ecmascript 6，计划明年6月就发布啦。[阮一峰的网站](http://es6.ruanyifeng.com/)有入门资料。
 
 jquery 有很多 API,[这个网站](http://www.css88.com/jqapi-1.9/)可以方便查到。有时间弄清楚jquery deferred 的用法。
 
