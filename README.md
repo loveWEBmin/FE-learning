@@ -3,46 +3,45 @@
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [FE-learning](#fe-learning)
-  - [必备基础技能](#必备基础技能)
-  - [基本开发工具](#基本开发工具)
-  - [学习方法和学习目标](#学习方法和学习目标)
-  - [入门之路](#入门之路)
-  - [部分书籍电子版](#部分书籍电子版)
-  - [检验成果](#检验成果)
-  - [继续提高](#继续提高)
-  - [书籍推荐](#书籍推荐)
-  - [一些个人经历](#一些个人经历)
-    - [[asd123freedom](https://github.com/asd123freedom)的学习经历](#asd123freedomhttpsgithubcomasd123freedom的学习经历)
-    - [[sue891206](https://github.com/sue891206)的学习经历](#sue891206httpsgithubcomsue891206的学习经历)
-    - [[Sheetaa](https://github.com/Sheetaa)的学习经历](#sheetaahttpsgithubcomsheetaa的学习经历)
-    - [[suikaxin](https://github.com/suikaxin)的学习经历](#suikaxinhttpsgithubcomsuikaxin的学习经历)
-    - [[quanxi613](https://github.com/quanxi613)的学习经历](#quanxi613httpsgithubcomquanxi613的学习经历)
-    - [[LingyuCoder](https://github.com/LingyuCoder)的学习经历](#lingyucoderhttpsgithubcomlingyucoder的学习经历)
-      - [工具](#工具)
-      - [技能](#技能)
-        - [语言基础](#语言基础)
-        - [进阶](#进阶)
-        - [项目](#项目)
-        - [未来](#未来)
-        - [其他](#其他)
-      - [入门书](#入门书)
-      - [一些不错的网站](#一些不错的网站)
-      - [历程](#历程)
-    - [[zwl4488](https://github.com/zwl4488)的学习经历](#zwl4488httpsgithubcomzwl4488的学习经历)
-    - [[MrRaindrop](https://github.com/MrRaindrop)的学习经历](#mrraindrophttpsgithubcommrraindrop的学习经历)
-      - [缘起](#缘起)
-      - [项目，下一个项目](#项目，下一个项目)
-      - [收集癖和知识管理](#收集癖和知识管理)
-      - [跟对神](#跟对神)
-      - [读书](#读书)
-      - [前端的定位](#前端的定位)
-      - [最后](#最后)
-    - [[zyr2014](https://github.com/zyr2014)的学习经历](#zyr2014httpsgithubcomzyr2014的学习经历)
-    - [[zhangtaibai](https://github.com/zhangtaibai)的学习经历](#zhangtaibaihttpsgithubcomzhangtaibai的学习经历)
-    - [byr论坛yiyizym的建议](#byr论坛yiyizym的建议)
+  - [必备基础技能](#%E5%BF%85%E5%A4%87%E5%9F%BA%E7%A1%80%E6%8A%80%E8%83%BD)
+  - [基本开发工具](#%E5%9F%BA%E6%9C%AC%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7)
+  - [学习方法和学习目标](#%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95%E5%92%8C%E5%AD%A6%E4%B9%A0%E7%9B%AE%E6%A0%87)
+  - [入门之路](#%E5%85%A5%E9%97%A8%E4%B9%8B%E8%B7%AF)
+  - [检验成果](#%E6%A3%80%E9%AA%8C%E6%88%90%E6%9E%9C)
+  - [继续提高](#%E7%BB%A7%E7%BB%AD%E6%8F%90%E9%AB%98)
+  - [书籍推荐](#%E4%B9%A6%E7%B1%8D%E6%8E%A8%E8%8D%90)
+  - [一些个人经历](#%E4%B8%80%E4%BA%9B%E4%B8%AA%E4%BA%BA%E7%BB%8F%E5%8E%86)
+    - [[asd123freedom](https://github.com/asd123freedom)的学习经历](#asd123freedomhttpsgithubcomasd123freedom%E7%9A%84%E5%AD%A6%E4%B9%A0%E7%BB%8F%E5%8E%86)
+    - [[sue891206](https://github.com/sue891206)的学习经历](#sue891206httpsgithubcomsue891206%E7%9A%84%E5%AD%A6%E4%B9%A0%E7%BB%8F%E5%8E%86)
+    - [[Sheetaa](https://github.com/Sheetaa)的学习经历](#sheetaahttpsgithubcomsheetaa%E7%9A%84%E5%AD%A6%E4%B9%A0%E7%BB%8F%E5%8E%86)
+    - [[suikaxin](https://github.com/suikaxin)的学习经历](#suikaxinhttpsgithubcomsuikaxin%E7%9A%84%E5%AD%A6%E4%B9%A0%E7%BB%8F%E5%8E%86)
+    - [[quanxi613](https://github.com/quanxi613)的学习经历](#quanxi613httpsgithubcomquanxi613%E7%9A%84%E5%AD%A6%E4%B9%A0%E7%BB%8F%E5%8E%86)
+    - [[LingyuCoder](https://github.com/LingyuCoder)的学习经历](#lingyucoderhttpsgithubcomlingyucoder%E7%9A%84%E5%AD%A6%E4%B9%A0%E7%BB%8F%E5%8E%86)
+      - [工具](#%E5%B7%A5%E5%85%B7)
+      - [技能](#%E6%8A%80%E8%83%BD)
+        - [语言基础](#%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80)
+        - [进阶](#%E8%BF%9B%E9%98%B6)
+        - [项目](#%E9%A1%B9%E7%9B%AE)
+        - [未来](#%E6%9C%AA%E6%9D%A5)
+        - [其他](#%E5%85%B6%E4%BB%96)
+      - [入门书](#%E5%85%A5%E9%97%A8%E4%B9%A6)
+      - [一些不错的网站](#%E4%B8%80%E4%BA%9B%E4%B8%8D%E9%94%99%E7%9A%84%E7%BD%91%E7%AB%99)
+      - [历程](#%E5%8E%86%E7%A8%8B)
+    - [[zwl4488](https://github.com/zwl4488)的学习经历](#zwl4488httpsgithubcomzwl4488%E7%9A%84%E5%AD%A6%E4%B9%A0%E7%BB%8F%E5%8E%86)
+    - [[MrRaindrop](https://github.com/MrRaindrop)的学习经历](#mrraindrophttpsgithubcommrraindrop%E7%9A%84%E5%AD%A6%E4%B9%A0%E7%BB%8F%E5%8E%86)
+      - [缘起](#%E7%BC%98%E8%B5%B7)
+      - [项目，下一个项目](#%E9%A1%B9%E7%9B%AE%EF%BC%8C%E4%B8%8B%E4%B8%80%E4%B8%AA%E9%A1%B9%E7%9B%AE)
+      - [收集癖和知识管理](#%E6%94%B6%E9%9B%86%E7%99%96%E5%92%8C%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86)
+      - [跟对神](#%E8%B7%9F%E5%AF%B9%E7%A5%9E)
+      - [读书](#%E8%AF%BB%E4%B9%A6)
+      - [前端的定位](#%E5%89%8D%E7%AB%AF%E7%9A%84%E5%AE%9A%E4%BD%8D)
+      - [最后](#%E6%9C%80%E5%90%8E)
+    - [[zyr2014](https://github.com/zyr2014)的学习经历](#zyr2014httpsgithubcomzyr2014%E7%9A%84%E5%AD%A6%E4%B9%A0%E7%BB%8F%E5%8E%86)
+    - [[zhangtaibai](https://github.com/zhangtaibai)的学习经历](#zhangtaibaihttpsgithubcomzhangtaibai%E7%9A%84%E5%AD%A6%E4%B9%A0%E7%BB%8F%E5%8E%86)
+    - [byr论坛yiyizym的建议](#byr%E8%AE%BA%E5%9D%9Byiyizym%E7%9A%84%E5%BB%BA%E8%AE%AE)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -56,7 +55,7 @@
 
 学习任何知识最重要的都是**兴趣**，如果经过一段时间的学习感觉不喜欢，那可能强迫自己学习是很痛苦的，效果也不会好，毕竟这很可能就是以后很多年生存的技能。不过随着互联网行业的发展，前端必然是Web开发人员需要学习的知识，有时候是没有专业前端工程师一起合作的，所以即使不做专门的前端工程师，掌握基本的前端技能为工作带来方便。
 
-后期邀请了一些同学分享学习经历。如果有同学愿意分享，[请联系我](mailto:qiu_deqing@126.com)
+后期邀请了一些同学分享学习经历。如果有同学愿意分享,欢迎push
 
 ## 必备基础技能
 
@@ -85,7 +84,7 @@
 - **文本编辑器**：推荐[Sublime Text](http://www.sublimetext.com/)，支持各种插件、主题、设置，使用方便
 - **浏览器**：推荐[Google Chrome](http://www.google.cn/chrome/?hl=zh-CN&standalone=1)，更新快，对前端各种标准提供了非常好的支持
 - **调试工具**：推荐Chrome自带的[Chrome develop tools](https://developer.chrome.com/devtools)，可以轻松查看DOM结构、样式，通过控制台输出调试信息，调试javascript，查看网络等
-- **辅助工具**：PhotoShop编辑图片、取色，fireworks量尺寸，AlloyDesigner对比尺寸，以及前面的到的Chrome develop tools，这里是一个[简单教程](http://qiu-deqing.github.io/toolpage/front-end-develop-tools.html)
+- **辅助工具**：PhotoShop编辑图片、取色，fireworks量尺寸，AlloyDesigner对比尺寸，以及前面的到的Chrome develop tools，
 - **翻墙工具**：使用goagent + chrome很方便。遇到问题时找不到合适的中文资料，可以考虑Google搜索对应的英文资料。
 
 ## 学习方法和学习目标
@@ -105,7 +104,7 @@
 
 ## 入门之路
 
-以下是入门阶段不错的书籍和资料，列表后面有一些电子版下载链接
+以下是入门阶段不错的书籍和资料
 
 1. HTML先看[《HTML & CSS: Design and Build Websites》][]1-9章，然后[《HTML5: The Missing Manual》][]1-4章。
 2. CSS先看[《CSS: The Missing Manual》][]，然后[《CSS权威指南》][]
@@ -142,7 +141,7 @@
 
 ## 检验成果
 
-亲自实现下面的例子，能兼容IE6+那就最好了
+亲自实现下面的例子
 
 - <http://blog.html.it/layoutgala/>:同一个html文件通过css完成40种不同布局，兼顾兼容性
 - <http://js.fgm.cc/learn/>:完成和这里一模一样的功能、布局。
@@ -164,7 +163,6 @@
 - [Javascript内存管理](https://developer.chrome.com/devtools/docs/javascript-memory-profiling?hl=figoogle)：SPA长期运行需要注意内存泄露的问题
 - [High Performance JavaScript(Build Faster Web Application Interfaces)](http://www.amazon.com/Performance-JavaScript-Faster-Application-Interfaces/dp/059680279X/ref=sr_1_1?s=books&ie=UTF8&qid=undefined&sr=1-1&keywords=high+performance+javascript)
 - [Best Practices for Speeding Up Your Web Site](https://developer.yahoo.com/performance/rules.html)：重要技能
-- 读jQuery源码
 
 
 ## 书籍推荐
@@ -186,6 +184,8 @@
 - [maintainable javascript](http://www.amazon.com/Maintainable-JavaScript-Nicholas-C-Zakas/dp/1449327680/ref=sr_1_1?ie=UTF8&qid=1416826732&sr=8-1&keywords=maintainable+javascript)
 - [learning javascript design patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 - [Node School](http://nodeschool.io/)：很好的命令行下的、富有交互性的教程，不仅仅是 Node 方面。
+- [iconfont](http://iconfont.cn): 阿里巴巴矢量图标库
+- [handlebars](http://handlebarsjs.com/): javascript模板引擎
 
 
 ## 一些个人经历
