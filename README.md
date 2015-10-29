@@ -10,15 +10,8 @@
   - [基本开发工具](#%E5%9F%BA%E6%9C%AC%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7)
   - [学习方法和学习目标](#%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95%E5%92%8C%E5%AD%A6%E4%B9%A0%E7%9B%AE%E6%A0%87)
   - [入门之路](#%E5%85%A5%E9%97%A8%E4%B9%8B%E8%B7%AF)
-  - [检验成果](#%E6%A3%80%E9%AA%8C%E6%88%90%E6%9E%9C)
   - [继续提高](#%E7%BB%A7%E7%BB%AD%E6%8F%90%E9%AB%98)
-  - [书籍推荐](#%E4%B9%A6%E7%B1%8D%E6%8E%A8%E8%8D%90)
   - [一些个人经历](#%E4%B8%80%E4%BA%9B%E4%B8%AA%E4%BA%BA%E7%BB%8F%E5%8E%86)
-    - [[asd123freedom](https://github.com/asd123freedom)的学习经历](#asd123freedomhttpsgithubcomasd123freedom%E7%9A%84%E5%AD%A6%E4%B9%A0%E7%BB%8F%E5%8E%86)
-    - [[sue891206](https://github.com/sue891206)的学习经历](#sue891206httpsgithubcomsue891206%E7%9A%84%E5%AD%A6%E4%B9%A0%E7%BB%8F%E5%8E%86)
-    - [[Sheetaa](https://github.com/Sheetaa)的学习经历](#sheetaahttpsgithubcomsheetaa%E7%9A%84%E5%AD%A6%E4%B9%A0%E7%BB%8F%E5%8E%86)
-    - [[suikaxin](https://github.com/suikaxin)的学习经历](#suikaxinhttpsgithubcomsuikaxin%E7%9A%84%E5%AD%A6%E4%B9%A0%E7%BB%8F%E5%8E%86)
-    - [[quanxi613](https://github.com/quanxi613)的学习经历](#quanxi613httpsgithubcomquanxi613%E7%9A%84%E5%AD%A6%E4%B9%A0%E7%BB%8F%E5%8E%86)
     - [[LingyuCoder](https://github.com/LingyuCoder)的学习经历](#lingyucoderhttpsgithubcomlingyucoder%E7%9A%84%E5%AD%A6%E4%B9%A0%E7%BB%8F%E5%8E%86)
       - [工具](#%E5%B7%A5%E5%85%B7)
       - [技能](#%E6%8A%80%E8%83%BD)
@@ -30,7 +23,6 @@
       - [入门书](#%E5%85%A5%E9%97%A8%E4%B9%A6)
       - [一些不错的网站](#%E4%B8%80%E4%BA%9B%E4%B8%8D%E9%94%99%E7%9A%84%E7%BD%91%E7%AB%99)
       - [历程](#%E5%8E%86%E7%A8%8B)
-    - [[zwl4488](https://github.com/zwl4488)的学习经历](#zwl4488httpsgithubcomzwl4488%E7%9A%84%E5%AD%A6%E4%B9%A0%E7%BB%8F%E5%8E%86)
     - [[MrRaindrop](https://github.com/MrRaindrop)的学习经历](#mrraindrophttpsgithubcommrraindrop%E7%9A%84%E5%AD%A6%E4%B9%A0%E7%BB%8F%E5%8E%86)
       - [缘起](#%E7%BC%98%E8%B5%B7)
       - [项目，下一个项目](#%E9%A1%B9%E7%9B%AE%EF%BC%8C%E4%B8%8B%E4%B8%80%E4%B8%AA%E9%A1%B9%E7%9B%AE)
@@ -39,8 +31,6 @@
       - [读书](#%E8%AF%BB%E4%B9%A6)
       - [前端的定位](#%E5%89%8D%E7%AB%AF%E7%9A%84%E5%AE%9A%E4%BD%8D)
       - [最后](#%E6%9C%80%E5%90%8E)
-    - [[zyr2014](https://github.com/zyr2014)的学习经历](#zyr2014httpsgithubcomzyr2014%E7%9A%84%E5%AD%A6%E4%B9%A0%E7%BB%8F%E5%8E%86)
-    - [[zhangtaibai](https://github.com/zhangtaibai)的学习经历](#zhangtaibaihttpsgithubcomzhangtaibai%E7%9A%84%E5%AD%A6%E4%B9%A0%E7%BB%8F%E5%8E%86)
     - [byr论坛yiyizym的建议](#byr%E8%AE%BA%E5%9D%9Byiyizym%E7%9A%84%E5%BB%BA%E8%AE%AE)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -85,7 +75,7 @@
 - **浏览器**：推荐[Google Chrome](http://www.google.cn/chrome/?hl=zh-CN&standalone=1)，更新快，对前端各种标准提供了非常好的支持
 - **调试工具**：推荐Chrome自带的[Chrome develop tools](https://developer.chrome.com/devtools)，可以轻松查看DOM结构、样式，通过控制台输出调试信息，调试javascript，查看网络等
 - **辅助工具**：PhotoShop编辑图片、取色，fireworks量尺寸，AlloyDesigner对比尺寸，以及前面的到的Chrome develop tools，
-- **翻墙工具**：使用goagent + chrome很方便。遇到问题时找不到合适的中文资料，可以考虑Google搜索对应的英文资料。
+- **翻墙工具**：lantern, 壁虎漫步
 
 ## 学习方法和学习目标
 
@@ -112,7 +102,6 @@
 4. HTTP看[HTTP权威指南][]
 5. 在整个学习过程中HTML CSS JavaScript会有很多地方需要互相结合，实际工作中也是这样，一个简单的功能模块都需要三者结合才能实现。
 6. 动手是学习的重要组成部分，书籍重点讲解知识点，例子可能不是很充足，这就需要利用搜索引擎寻找一些简单教程，照着教程实现功能。以下是一些比较好的教程网址
-    - CSS各种布局<http://blog.html.it/layoutgala/>
     - 可以搜索各大公司前端校招笔试面试题作为练习题或者他人总结的[前端面试题][]还有[个人总结的面试题][]（带参考答案）
     - <http://code.tutsplus.com>有各种各样的教程
     - [MDN](https://developer.mozilla.org/en-US/docs/Web)也有很多教程，更重要的是里面有详细的文档，需要查找某个功能时在Google搜索：`xxx site:https://developer.mozilla.org`
@@ -139,15 +128,6 @@
 
 
 
-## 检验成果
-
-亲自实现下面的例子
-
-- <http://blog.html.it/layoutgala/>:同一个html文件通过css完成40种不同布局，兼顾兼容性
-- <http://js.fgm.cc/learn/>:完成和这里一模一样的功能、布局。
-- 模拟实现常用5个网站的首页页面
-- <https://github.com/ecomfe/moye>：实现这个组件库中的所有组件
-
 ## 继续提高
 
 有了前面的基础之后，前端基本算是入门了，这时候可能每个人心中都有了一些学习方向，如果还是没有。
@@ -165,40 +145,8 @@
 - [Best Practices for Speeding Up Your Web Site](https://developer.yahoo.com/performance/rules.html)：重要技能
 
 
-## 书籍推荐
-
-以下是一些不错的书籍、网站、教程。
-
-
-
-- [《Ajax完全手册》](http://www.amazon.cn/Ajax%E5%AE%8C%E5%85%A8%E6%89%8B%E5%86%8C-%E6%B3%A2%E7%BB%B4%E5%B0%94/dp/B001N6R0Q2/ref=sr_1_2?ie=UTF8&qid=1410104972&sr=8-2&keywords=ajax%E5%AE%8C%E5%85%A8%E6%89%8B%E5%86%8C)：一本Ajax很不错的书，例子多，实现了一个Ajax库
-- [《Pro AngularJS》](http://www.amazon.com/Pro-AngularJS-Experts-Voice-Development/dp/1430264489/ref=sr_1_1?s=books&ie=UTF8&qid=1410105152&sr=1-1&keywords=pro+angularjs)：AngularJS很好的书籍
-- [《精通CSS：高级web标准解决方法》](http://www.amazon.com/CSS-Mastery-Advanced-Standards-Solutions/dp/1430223979/ref=sr_1_1?ie=UTF8&qid=1410137090&sr=8-1&keywords=css+mastery+advanced+web+standards+solutions)：CSS实用技能
-- [JavaScript Memory Profiling](https://developer.chrome.com/devtools/docs/javascript-memory-profiling?hl=figoogle)
-- [《HTML5 canvas》](http://www.amazon.com/HTML5-Canvas-Steve-Fulton/dp/1449334989/ref=sr_1_1?ie=UTF8&qid=undefined&sr=8-1&keywords=html5+canvas)：canvas是HTML5带来的一个很棒的特性，可以做很多事情
-- [《Pro Node.js for Developers》](http://www.amazon.com/Pro-Node-js-Developers-Colin-Ihrig/dp/1430258608/ref=sr_1_1?ie=UTF8&qid=undefined&sr=8-1&keywords=pro+nodejs+for+developers)：node发展太快。里面很多API都过时了，尽量参考官方API，不过还是值得一看
-- [《Node.js in Action》](http://www.amazon.com/Node-js-Action-Mike-Cantelon/dp/1617290572/ref=sr_1_1?ie=UTF8&qid=1410138522&sr=8-1&keywords=node+js+in+action)：很不错的Node入门书籍
-- [《Single Page Web Applications: JavaScript end-to-end》](http://www.amazon.com/Single-Page-Applications-end---end/dp/1617290750/ref=sr_1_1?s=books&ie=UTF8&qid=1410138650&sr=1-1&keywords=single+page+application)：一步步完成简单SPA
-- [天镶大神的博客](http://lingyu.wang/#/home)
-- [《Web Development width Node & Express》](http://www.amazon.com/Web-Development-Node-Express-Leveraging/dp/1491949309/ref=sr_1_sc_1?ie=UTF8&qid=1415106115&sr=8-1-spell&keywords=web+development+width+node+and+express)：使用Node+Express完成一个项目，各种best practice，就像有人带，需要有一定基础，偏向于后端
-- [maintainable javascript](http://www.amazon.com/Maintainable-JavaScript-Nicholas-C-Zakas/dp/1449327680/ref=sr_1_1?ie=UTF8&qid=1416826732&sr=8-1&keywords=maintainable+javascript)
-- [learning javascript design patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
-- [Node School](http://nodeschool.io/)：很好的命令行下的、富有交互性的教程，不仅仅是 Node 方面。
-- [iconfont](http://iconfont.cn): 阿里巴巴矢量图标库
-- [handlebars](http://handlebarsjs.com/): javascript模板引擎
-
-
 ## 一些个人经历
 
-### [asd123freedom](https://github.com/asd123freedom)的学习经历
-
-### [sue891206](https://github.com/sue891206)的学习经历
-
-### [Sheetaa](https://github.com/Sheetaa)的学习经历
-
-### [suikaxin](https://github.com/suikaxin)的学习经历
-
-### [quanxi613](https://github.com/quanxi613)的学习经历
 
 ### [LingyuCoder](https://github.com/LingyuCoder)的学习经历
 
@@ -382,7 +330,6 @@ CSS和HTML：主要是CSS3的特性和HTML5的特性，以及浏览器处理的�
 ####历程
 以前是做Java SSH的，半路出家做的前端，所以水平比较弱，遇到问题也比较多。基本上入门靠看书和[W3C School](http://www.w3school.com.cn/)上的教程，以及一些前端博客，如[汤姆大叔的博客](http://www.cnblogs.com/TomXu/)。以前也只是使用jQuery，原生js也没有太多的钻研，后来逐渐看了很多本动物书，比如老道的语言精粹等等。从这些书中学到了很多语言层面的知识。但这显然是不够的，所以我经常会去社区上看看大家在谈论什么，然后去看看相关的资料，感兴趣就会多找些资料看看，或者写一写demo。学CSS主要就是通过这种方式。后来开始更多的关注各路大牛的博客和一些比较深的书籍，以及关注一些新的知识和框架，并且不断地练手提交代码到github，这样也学到了很多知识。在实习的过程中，切身参与到实际项目开发之中，能学到很多在学校学不到的理念和思维，这点也有很大的帮助。不说了，我要去搬砖求offer了...
 
-### [zwl4488](https://github.com/zwl4488)的学习经历
 
 ### [MrRaindrop](https://github.com/MrRaindrop)的学习经历
 
@@ -452,10 +399,6 @@ CSS和HTML：主要是CSS3的特性和HTML5的特性，以及浏览器处理的�
 [11]: https://github.com/JacksonTian/fks
 [12]: http://www.f2er.info/
 [13]: http://book.douban.com/doulist/13701898/
-
-### [zyr2014](https://github.com/zyr2014)的学习经历
-
-### [zhangtaibai](https://github.com/zhangtaibai)的学习经历
 
 ### byr论坛yiyizym的建议
 
