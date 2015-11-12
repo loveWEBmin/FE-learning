@@ -394,7 +394,7 @@ CSS和HTML：主要是CSS3的特性和HTML5的特性，以及浏览器处理的�
 [6]: https://github.com/lifesinger/lifesinger.github.com/issues/184
 [7]: https://github.com/lifesinger/lifesinger.github.com/labels/blog
 [8]: https://github.com/lifesinger/lifesinger.github.com/issues/185
-[9]: http://blog.jobbole.com/25114/
+[9]: https://github.com/jayli/jayli.github.com/issues/1
 [10]: https://github.com/darcyclarke/Front-end-Developer-Interview-Questions
 [11]: https://github.com/JacksonTian/fks
 [12]: http://www.f2er.info/
