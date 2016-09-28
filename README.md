@@ -111,7 +111,7 @@
 7. 原生javascript是需要重点掌握的技能，在掌握原生javascript的基础上推荐熟练掌握jQuery，在实际工作中用处很大，这方面的书籍有[《Learning jQuery》][]或者去[jQuery官网](http://learn.jquery.com/)
 8. 建一个<https://github.com/>账号，保存平时学习中的各种代码和项目。
 9. 有了一定基础之后可以搭建一个个人博客，记录学习过程中遇到的问题和解决方法，方便自己查阅也为其他人提供了帮助。也可以去<http://www.cnblogs.com/>或者<http://www.csdn.net/>这样的网站注册账号，方便实用
-10. 经常实用Google搜索英文资料应该经常找到来自<http://stackoverflow.com/>的高质量答案，与到问题可以直接在这里搜索，如果有精力，注册一个账号为别人解答问题也能极大提高个人能力。
+10. 经常实用Google搜索英文资料应该经常找到来自<http://stackoverflow.com/>的高质量答案，遇到问题可以直接在这里搜索，如果有精力，注册一个账号为别人解答问题也能极大提高个人能力。
 11. 经典书籍熟读之后，可以打开前面必备基础技能部分的链接。认真读对应标准，全面掌握知识
 
 
@@ -171,7 +171,7 @@
         + UC二维码：移动端调试扫码必备
         + pagespeed，YSlow：页面性能分析和优化插件
         + 马克飞象：优秀的在线markdown编辑器，快速写周报，做记录
-* sublime text2：编码方便，插件多，速度快，性能好
+* sublime text3：编码方便，插件多，速度快，性能好
     - emmet：提升html编码速度必备
     - sublimelinter + 各种语言的lint和hint：代码纠错
     - 一些snippets：自动补全，提升开发效率
@@ -237,7 +237,7 @@ CSS和HTML：主要是CSS3的特性和HTML5的特性，以及浏览器处理的�
 一些理念：
 * 响应式Web
 * 优雅降级、渐进增强
-* don`t make me think
+* don't make me think
 * 网页可用性、可访问性、其中的意义
 * SEO搜索引擎优化，了解搜索引擎的原理
 * SPA的好处和问题
@@ -293,7 +293,8 @@ CSS和HTML：主要是CSS3的特性和HTML5的特性，以及浏览器处理的�
 
 * 《JavaScript高级编程》：可以作为入门书籍，但同时也是高级书籍，可以快速吸收基础，等到提升再回来重新看
 * 《JavaScript权威指南》：不太适合入门，但是必备，不理解的地方就去查阅一下，很有帮助
-* 《编写可维护的JavaScript》和：
+* 《编写可维护的JavaScript》
+* 《JavaScript DOM编程艺术》学习JavaScript和DOM开发的必读之作。
 * 《Node.js开发指南》：不错的Nodejs入门书籍
 * 《深入浅出Node.js》：Nodejs进阶书籍，必备
 * 《JavaScript异步编程》：理解JS异步的编程理念
@@ -418,7 +419,7 @@ css 尽量看[文档](http://www.w3.org/TR/CSS21/cover.html#minitoc) ，因为�
 
 javascript 就看 javascript高级程序设计 。不过这么厚的书看过就会忘。对javascript核心概念的讲解：对象/原型链/         构造函数/执行上下文/作用域链/闭包/this，[这里](http://weizhifeng.net/javascript-the-core.html)有篇不错的文章。
 
-有闲情可以看看 ecmascript 6，计划明年6月就发布啦。[阮一峰的网站](http://es6.ruanyifeng.com/)有入门资料。
+有闲情可以看看 ecmascript 6。[阮一峰的网站](http://es6.ruanyifeng.com/)有入门资料。
 
 jquery 有很多 API,[这个网站](http://www.css88.com/jqapi-1.9/)可以方便查到。有时间弄清楚jquery deferred 的用法。
 
