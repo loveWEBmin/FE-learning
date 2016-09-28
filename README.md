@@ -75,7 +75,7 @@
 - **浏览器**：推荐[Google Chrome](http://www.google.cn/chrome/?hl=zh-CN&standalone=1)，更新快，对前端各种标准提供了非常好的支持
 - **调试工具**：推荐Chrome自带的[Chrome develop tools](https://developer.chrome.com/devtools)，可以轻松查看DOM结构、样式，通过控制台输出调试信息，调试javascript，查看网络等
 - **辅助工具**：PhotoShop编辑图片、取色，fireworks量尺寸，AlloyDesigner对比尺寸，以及前面的到的Chrome develop tools，
-- **翻墙工具**：lantern, 壁虎漫步
+- **翻墙工具**：lantern, ~~壁虎漫步~~（已被和谐）
 
 ## 学习方法和学习目标
 
